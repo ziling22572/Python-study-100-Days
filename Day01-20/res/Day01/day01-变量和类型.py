@@ -16,7 +16,7 @@ print(0x100)  # 十六进制整数  todo “0x” [十六进制（Hexadecimal）
 print(123.456)  # 数学写法
 print(1.23456e2)  # 科学计数法 todo 表示$\small{1.23456 \times 10^{2}}$） 结果和上面一样
 
-# todo 3. 字符串型（`str`）
+# todo 3. 字符串型（`str`）  todo c = 'hello' 和 c = "hello" 没有本质区别。
 print('hello')
 
 # todo 4. 布尔型（`bool`）：
